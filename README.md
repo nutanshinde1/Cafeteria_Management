@@ -109,7 +109,7 @@ The administrator can manage:
 - Food Items
 - Orders
 - Cafeteria records
-
+- 
 ---
 
 ## 🛠️ Technologies Used
